@@ -1,0 +1,1 @@
+The Caltalyst Layer Crack Detector, or CLCD ("clicked") is a program that takes in optical micrographs of catalyst coatings for PEM fuel cells or electrolyzers and calculates the percent area that consist of cracks. It does so using a custom algorithm that searches for dark features larger than the background graininess of the catalyst layer. 
